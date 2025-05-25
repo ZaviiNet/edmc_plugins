@@ -5,7 +5,7 @@
     "version": "1.4.0",
     "author": "ZaviiNet",
     "description": "The EDFM Uploader plugin allows Elite Dangerous commanders using EDMC to automatically send valuable in-game data to the EDFM (Elite Dangerous Fleet Manager) platform",
-    "downloadUrl": "https://github.com/ZaviiNet/EDFM_Uploader/archive/refs/tags/v1.4.0.zip",
+    "downloadUrl": "https://github.com/ZaviiNet/EDFM_Uploader/releases/download/v1.4.0/EDFM_Uploader.zip",
     "edmcCompatibility": ">=5.0.0",
     "repositoryUrl": "https://github.com/ZaviiNet/EDFM_Uploader"
   },
