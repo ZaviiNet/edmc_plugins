@@ -1,0 +1,142 @@
+[
+  {
+    "id": "EDFM_Uploader",
+    "name": "EDFM Uploader",
+    "version": "1.4.0",
+    "author": "ZaviiNet",
+    "description": "The EDFM Uploader plugin allows Elite Dangerous commanders using EDMC to automatically send valuable in-game data to the EDFM (Elite Dangerous Fleet Manager) platform",
+    "downloadUrl": "https://github.com/ZaviiNet/EDFM_Uploader/archive/refs/tags/v1.4.0.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/ZaviiNet/EDFM_Uploader"
+  },
+  {
+    "id": "atel-edmc",
+    "name": "ATEL-EDMC",
+    "version": "1.32+",
+    "author": "Elite IGAU",
+    "description": "Automatically collects \"Codex\" discovery data, and (optionally) posts public Astronomical Discovery \"Telegram\" style notices. NB: Ensure you're using a Python 3.7 compatible version, 1.32 or later.",
+    "downloadUrl": "https://github.com/Elite-IGAU/ATEL-EDMC/archive/refs/tags/latest.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/Elite-IGAU/ATEL-EDMC"
+  },
+  {
+    "id": "distance-calc",
+    "name": "DistanceCalc",
+    "version": "1.3.0",
+    "author": "Thurion",
+    "description": "Displays the distance to up to 3 systems.",
+    "downloadUrl": "https://github.com/Thurion/DistanceCalc/releases/download/rel-130/DistanceCalc.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/Thurion/DistanceCalc"
+  },
+  {
+    "id": "edmc-cannon",
+    "name": "EDMC-Cannon",
+    "version": "7.5.1",
+    "author": "Canonn Research",
+    "description": "Keeps you up to date with Canonn News, directs you to things of interest in the game and captures data that will enable us to catalogue the mysteries of the Galaxy.",
+    "downloadUrl": "https://github.com/canonn-science/EDMC-Canonn/archive/refs/tags/7.5.1.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/canonn-science/EDMC-Canonn/wiki"
+  },
+  {
+    "id": "edmc-clog",
+    "name": "EDMC CLog",
+    "version": "N/A (Please update)",
+    "author": "Seldon Labs",
+    "description": "Show if a commander was reported as a combat logger. NB: Latest code works only with EDMC versions greater than 3.46 (Python 3.7+).",
+    "downloadUrl": "https://github.com/seldonlabs/edmc_clog/archive/refs/tags/v0.2.3.zip",
+    "edmcCompatibility": ">3.46.0",
+    "repositoryUrl": "https://github.com/seldonlabs/edmc_clog"
+  },
+  {
+    "id": "edmc-discord-presence",
+    "name": "EDMC Discord Presence",
+    "version": "3.1.0",
+    "author": "Elite Kode",
+    "description": "Show your current location to your friends on Discord from your user profile.",
+    "downloadUrl": "https://github.com/elite-kode/edmc-discord-presence/releases/download/v3.1.0/DiscordPresence.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/elite-kode/edmc-discord-presence"
+  },
+  {
+    "id": "edmc-screenshot",
+    "name": "EDMC-Screenshot",
+    "version": "7.0.0",
+    "author": "NoFoolLikeOne",
+    "description": "Automatically renames screenshots with System and Body name, and converts them to PNG format.",
+    "downloadUrl": "https://github.com/NoFoolLikeOne/EDMC-Screenshot/archive/refs/tags/7.0.0.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/NoFoolLikeOne/EDMC-Screenshot"
+  },
+  {
+    "id": "edmc-spansh-router",
+    "name": "EDMC_SpanshRouter",
+    "version": "3.1.0",
+    "author": "CMDR Kiel42",
+    "description": "Automatically copies to your clipboard the next waypoint on a route you planned using Spansh Neutron Plotter.",
+    "downloadUrl": "https://github.com/CMDR-Kiel42/EDMC_SpanshRouter/releases/download/v3.1.0/EDMC_SpanshRouter_310.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/CMDR-Kiel42/EDMC_SpanshRouter"
+  },
+  {
+    "id": "exploration-progress",
+    "name": "Exploration Progress",
+    "version": "1.0.7",
+    "author": "DlljsCodes",
+    "description": "Allows explorer players to see their progress from one star system to another.",
+    "downloadUrl": "https://github.com/DlljsCodes/exploration-progress/archive/refs/tags/v1.0.7.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/DlljsCodes/exploration-progress"
+  },
+  {
+    "id": "habitable-zone",
+    "name": "Habitable Zone",
+    "version": "1.2.0",
+    "author": "Marginal",
+    "description": "Helps explorers find high-value planets. NB: Use the GitHub master zip for Python 3.7+ compatibility.",
+    "downloadUrl": "https://github.com/Marginal/HabZone/releases/download/rel-120/HabZone_120.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/Marginal/HabZone"
+  },
+  {
+    "id": "hourly-income",
+    "name": "Hourly Income",
+    "version": "1.0.0",
+    "author": "Exynom",
+    "description": "Displays your hourly income.",
+    "downloadUrl": "https://github.com/ZaviiNet/EDMC-HourlyIncome/releases/download/release/EDMC-HourlyIncome.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/Exynom/EDMC-HourlyIncome"
+  },
+  {
+    "id": "landing-pad",
+    "name": "LandingPad",
+    "version": "1.5.4",
+    "author": "bgol",
+    "description": "Helps people to find their assigned landingpad position in starports.",
+    "downloadUrl": "https://github.com/bgol/LandingPad/releases/download/v1.5.4/LandingPad_v1.5.4.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/bgol/LandingPad"
+  },
+  {
+    "id": "red-star-eliminator",
+    "name": "Red Star Eliminator (RSE)",
+    "version": "1.4.3",
+    "author": "Thurion",
+    "description": "Displays names and distances to nearby systems of interest for projects of EDSM. Originally designed to seek out unknown coordinate stars, it has branched out to include several other projects.",
+    "downloadUrl": "https://github.com/Thurion/EDSM-RSE-for-EDMC/releases/download/ver_1.4.3/EDSM-RSE.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/Thurion/EDSM-RSE-for-EDMC"
+  },
+  {
+    "id": "stream-source",
+    "name": "StreamSource",
+    "version": "1.1.0",
+    "author": "Marginal",
+    "description": "Outputs status info to files for use as text sources in live streaming software such as Open Broadcaster Software (OBS), GameShow, XSplit, etc.",
+    "downloadUrl": "https://github.com/Marginal/StreamSource/releases/download/rel-110/StreamSource.zip",
+    "edmcCompatibility": ">=5.0.0",
+    "repositoryUrl": "https://github.com/Marginal/StreamSource"
+  }
+]
